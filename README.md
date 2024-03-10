@@ -2,6 +2,9 @@
 
 This is a command line tool for managing a family tree. It allows users to add persons, define relationships between them, and query information about the family tree.
 
+### Relationship Interface
+The Relationship interface is used to define different types of relationships that can exist between persons in the family tree. It provides a way to specify and manage the connections between individuals.
+
 ### Usage
 To use the family tree command line tool, you can enter the following commands:
 
