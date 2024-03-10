@@ -1,4 +1,4 @@
-**Family Tree Command Line System (Pranjal Goyal)**
+## Family Tree Command Line System (Pranjal Goyal)
 
 This is a command line tool for managing a family tree. It allows users to add persons, define relationships between them, and query information about the family tree.
 
